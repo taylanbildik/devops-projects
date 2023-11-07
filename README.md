@@ -1,3 +1,6 @@
+Source: https://devopscube.com/
+Practical: [Best DevOps Projects For Practical Learning](https://devopscube.com/devops-projects/)
+
 # Real-World DevOps Projects For Learning
 
 DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
